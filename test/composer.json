@@ -5,7 +5,8 @@
         "devinci/devinci-behat-extension": "dev-master",
         "nucivic/dkanextension": "dev-master",
         "myplanetdigital/function_mock": "dev-master",
-        "drupal/drupal-driver": "^1.2"
+        "drupal/drupal-driver": "^1.2",
+        "drupal/coder": "~8.2"
     },
     "config": {
         "bin-dir": "bin/"
